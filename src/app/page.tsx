@@ -224,7 +224,7 @@ export default function SpellingGame() {
         ) : (
           <div className="flex flex-col items-center space-y-6">
             <h1 className="text-4xl md:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-b from-red-300 to-red-600 drop-shadow-sm mb-2 uppercase tracking-tight">
-              Soleteens 🎤
+              Soleteens
             </h1>
 
             <div className="inline-block px-5 py-2 bg-red-950/40 text-red-100 border border-red-800/40 rounded-full font-medium shadow-inner mb-6 uppercase tracking-wider text-sm">
